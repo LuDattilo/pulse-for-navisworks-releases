@@ -1,5 +1,5 @@
 {
-  "version": "0.2.8",
-  "downloadUrl": "https://github.com/LuDattilo/naviscortex-releases/releases/download/v0.2.8/NavisCortex-v0.2.8.zip",
-  "changelog": "v0.2.8 — Patch critica: i tool Clash Detective (list_clash_tests, get_clashes, run_clash_test, set_clash_status, focus_clash, export_clash_report, export_bcf, ecc.) e i tool Timeliner/Takeoff sono ora inclusi in TUTTE le build (Navisworks 2023, 2024, 2025, 2026). In v0.2.7 le build N23/N24/N25 erano compilate senza i Clash tool a causa di un mismatch del build system con l'install locale di Navisworks Manage; ora il riferimento passa via NuGet (Chuongmep) ed è deterministico. Aggiornare se si usa Navisworks 2023, 2024 o 2025."
+  "version": "0.2.9",
+  "downloadUrl": "https://github.com/LuDattilo/naviscortex-releases/releases/download/v0.2.9/NavisCortex-v0.2.9.zip",
+  "changelog": "v0.2.9 - New: apply_viewpoint now accepts preserveSelection=true to snapshot+restore selection across viewpoint apply. Server version aligned 0.1.0 -> 0.2.9. CLAUDE.md updated with behavioral notes and category-index design note."
 }
