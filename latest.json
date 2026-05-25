@@ -1,5 +1,5 @@
 {
-  "version": "0.2.9",
-  "downloadUrl": "https://github.com/LuDattilo/naviscortex-releases/releases/download/v0.2.9/NavisCortex-v0.2.9.zip",
-  "changelog": "v0.2.9 - New: apply_viewpoint now accepts preserveSelection=true to snapshot+restore selection across viewpoint apply. Server version aligned 0.1.0 -> 0.2.9. CLAUDE.md updated with behavioral notes and category-index design note."
+  "version": "0.3.0",
+  "downloadUrl": "https://github.com/LuDattilo/naviscortex-releases/releases/download/v0.3.0/NavisCortex-v0.3.0.zip",
+  "changelog": "AI Skill router + knowledge base (ai-skills/naviscortex) integrated with deploy and installer. Aligned with revitcortex skill pattern. Skill auto-installed in ~/.claude/skills and ~/.codex/skills when the client is present."
 }
