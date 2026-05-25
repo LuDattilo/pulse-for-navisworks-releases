@@ -1,5 +1,5 @@
 {
-  "version": "0.3.0",
-  "downloadUrl": "https://github.com/LuDattilo/naviscortex-releases/releases/download/v0.3.0/NavisCortex-v0.3.0.zip",
-  "changelog": "AI Skill router + knowledge base (ai-skills/naviscortex) integrated with deploy and installer. Aligned with revitcortex skill pattern. Skill auto-installed in ~/.claude/skills and ~/.codex/skills when the client is present."
+  "version": "0.3.1",
+  "downloadUrl": "https://github.com/LuDattilo/naviscortex-releases/releases/download/v0.3.1/NavisCortex-v0.3.1.zip",
+  "changelog": "Skill knowledge base hardening (4x Codex review fixes): debug.jsonl filename, complete 44-tool inventory, export_ correctly classified as write, isolate_* correctly classified as write (SetHidden), no UI-only misclassification. Plus Navisworks 2027 scaffold (csproj/sln/deploy/release ready for Chuongmep 2027.* whenever it ships). No runtime DLL changes."
 }
