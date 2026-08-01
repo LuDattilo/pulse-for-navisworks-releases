@@ -1,5 +1,5 @@
 {
   "version": "0.4.0",
-  "downloadUrl": "https://github.com/LuDattilo/pulse-for-navisworks-releases/releases/download/v0.4.0/Pulse-Navisworks-v0.4.0.zip",
+  "downloadUrl": "https://github.com/LuDattilo/pulse-for-navisworks-releases/releases/download/v0.4.0/Pulse-Navisworks-Setup-v0.4.0.exe",
   "changelog": "Prima release col nome Pulse. Il server MCP ora si avvia (prima non partiva in nessun client). Licenze: attivazione, lease offline, node-lock. Il plugin si carica su tutte le versioni supportate 2023-2026, non solo 2026. Nuovi strumenti clash e set di ricerca multi-criterio. Privacy: Send Log non invia piu' nome utente, nome macchina o percorsi dei progetti."
 }
