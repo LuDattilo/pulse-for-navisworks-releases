@@ -1,5 +1,5 @@
 {
-  "version": "0.3.1",
-  "downloadUrl": "https://github.com/LuDattilo/naviscortex-releases/releases/download/v0.3.1/NavisCortex-v0.3.1.zip",
-  "changelog": "Skill knowledge base hardening (4x Codex review fixes): debug.jsonl filename, complete 44-tool inventory, export_ correctly classified as write, isolate_* correctly classified as write (SetHidden), no UI-only misclassification. Plus Navisworks 2027 scaffold (csproj/sln/deploy/release ready for Chuongmep 2027.* whenever it ships). No runtime DLL changes."
+  "version": "0.4.0",
+  "downloadUrl": "https://github.com/LuDattilo/pulse-for-navisworks-releases/releases/download/v0.4.0/Pulse-Navisworks-v0.4.0.zip",
+  "changelog": "Prima release col nome Pulse. Il server MCP ora si avvia (prima non partiva in nessun client). Licenze: attivazione, lease offline, node-lock. Il plugin si carica su tutte le versioni supportate 2023-2026, non solo 2026. Nuovi strumenti clash e set di ricerca multi-criterio. Privacy: Send Log non invia piu' nome utente, nome macchina o percorsi dei progetti."
 }
